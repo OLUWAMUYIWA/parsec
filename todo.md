@@ -1,0 +1,2 @@
+- make the parser more general
+- add support for different encoding of integers, say variable, littleendian, and bigendian
